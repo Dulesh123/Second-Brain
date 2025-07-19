@@ -51,13 +51,12 @@ The **UI** of Second Brain is built with flexibility in mind, allowing users to 
 ## 🖼️ Screenshots
 
 ### 🧠 Main Dashboard
-[![Screenshot 1](./screenshot1.png)](https://github.com/Dulesh123/Second-Brain/blob/main/Screenshot1.png)
+![Screenshot 1](https://github.com/Dulesh123/Second-Brain/blob/main/Screenshot1.png?raw=true)
 
 ### 📂 Sidebar with Filtered Categories
-![Screenshot 2](./screenshot2.png)
+![Screenshot 2](https://github.com/Dulesh123/Second-Brain/blob/main/Screenshot2.png?raw=true)
 
 ### 🔗 Share Your Brain - Shared View
-![Screenshot 3](./screenshot3.png)
+![Screenshot 3](https://github.com/Dulesh123/Second-Brain/blob/main/Screenshot3.png?raw=true)
 
 ---
-
