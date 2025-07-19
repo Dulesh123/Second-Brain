@@ -44,29 +44,3 @@ The **UI** of Second Brain is built with flexibility in mind, allowing users to 
 ### 🧩 **"Share Your Brain" Functionality**
 - Users can click on the "Share Brain" button to share their saved cards (links) with others. This feature makes it easy to collaborate and showcase your thoughts, bookmarks, or areas of interest — all in a neat card format.
 
----
-
-## 📸 Screenshots
-
-Here’s a quick peek at how the app looks:
-
-### 🧳 **SignUp and Signin Page**
-![SignUp and Signin Page](https://github.com/SUMITSUNWAL/Second-Brain/blob/c857eec0ffd6ba1cca90600175cb1a2921983815/Screenshot1.png?raw=true)
-
-### 🧠 **Home Interface**
-![Home Interface](https://github.com/SUMITSUNWAL/Second-Brain/blob/c857eec0ffd6ba1cca90600175cb1a2921983815/Screenshot2.png?raw=true)
-
-### 🧳 **Add New Card – Modal Interface**
-![Add New Card – Modal Interface](https://github.com/SUMITSUNWAL/Second-Brain/blob/c857eec0ffd6ba1cca90600175cb1a2921983815/Screenshot3.png?raw=true)
-
-
----
-
-## 🚀 How to Use
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/SUMITSUNWAL/Second-Brain.git
-   cd Second-Brain
-
