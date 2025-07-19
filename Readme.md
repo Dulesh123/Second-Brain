@@ -2,6 +2,8 @@
 
 Second Brain is your personal knowledge management system designed to store, organize, and access your thoughts, ideas, and learning materials. With sleek, intuitive UI components and powerful search and organization features, Second Brain is the ultimate digital brain for managing your thoughts.
 
+---
+
 ## 🔍 Features
 
 ### 🗂️ **Organized Structure**
@@ -16,11 +18,11 @@ Second Brain is your personal knowledge management system designed to store, org
 ### 📆 **Date Stamping**
 - Automatically capture timestamps for every note to track when it was created or updated.
 
-### 📱 ** Responsive Design**
+### 📱 **Responsive Design**
 - A design optimized for a smooth experience across desktop devices, ensuring usability and clarity.
 
 ### 🧠 **Share Your Brain**
-- Share your interests ideas with others using the "Share Your Brain" feature. Share your insights and collaborate directly within the app.
+- Share your interests and ideas with others using the "Share Your Brain" feature. Share your insights and collaborate directly within the app.
 
 ---
 
@@ -34,7 +36,7 @@ The **UI** of Second Brain is built with flexibility in mind, allowing users to 
   - Thumbnail (representing the relevant link or content, like an image or video preview)
   - Tags, creation date, and other metadata
   - Action buttons for further interaction (e.g., "Edit," "Delete")
-  
+
 ### 🔄 **Content Filter via Sidebar**
 - **Dynamic Content Display:** Depending on the category selected in the sidebar (YouTube, Document, All), the content cards will dynamically update to show only relevant notes or content. This allows users to easily filter and access specific types of information.
   - **YouTube:** Clicking on the "YouTube" section will display cards related to YouTube content, such as video, or links to related YouTube content.
@@ -43,4 +45,19 @@ The **UI** of Second Brain is built with flexibility in mind, allowing users to 
 
 ### 🧩 **"Share Your Brain" Functionality**
 - Users can click on the "Share Brain" button to share their saved cards (links) with others. This feature makes it easy to collaborate and showcase your thoughts, bookmarks, or areas of interest — all in a neat card format.
+
+---
+
+## 🖼️ Screenshots
+
+### 🧠 Main Dashboard
+![Screenshot 1](./screenshot1.png)
+
+### 📂 Sidebar with Filtered Categories
+![Screenshot 2](./screenshot2.png)
+
+### 🔗 Share Your Brain - Shared View
+![Screenshot 3](./screenshot3.png)
+
+---
 
